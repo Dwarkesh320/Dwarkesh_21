@@ -30,9 +30,6 @@
   <a href="https://tailwindcss.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="tailwind" width="40" height="40"/></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"> <img style="margin-bottom: 10px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
   <a href="https://reactjs.org/" target="blank" ><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=react&theme=light" alt="react" width="40" height="40"/></a> &nbsp;
-
-
-
   <a href="https://git-scm.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
 <a href="https://code.visualstudio.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="git" width="40" height="40"/></a> &nbsp;
 </p>
